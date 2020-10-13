@@ -2,11 +2,13 @@
 
 Here are some projects I have worked on.
 
-### Project 1
+### Analysing data science jobs on Indeed
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In this project I am analysing job ads from Indeed. The data is from another project (https://github.com/felix-datascience/indeed_scraper) where I scraped job ads from an Indeed job search. Have a look at this project here:
 
-![](./images/dummy-figure-1.png)
+https://github.com/felix-datascience/indeed_job_analysis
+
+![](./images/heatmap_preview.png)
 
 ### Project 2
 
