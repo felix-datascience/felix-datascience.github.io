@@ -2,10 +2,11 @@
 
 Here are some projects I have worked on.
 
-### Analysing data science jobs on Indeed
+### [Analysing data science jobs on Indeed](https://nbviewer.jupyter.org/github/felix-datascience/indeed_job_analysis/blob/master/indeed_job_analysis.ipynb)
 
-In this project I am analysing job ads from Indeed. The data is from another project ([https://github.com/felix-datascience/indeed_scraper](https://github.com/felix-datascience/indeed_scraper)) where I scraped job ads from an Indeed job search. Have a look at this project here:  
-[https://github.com/felix-datascience/indeed_job_analysis](https://github.com/felix-datascience/indeed_job_analysis)
+_Exploratory Data Analysis_
+
+In this project I am analysing job ads from Indeed. The data is from another project ([https://github.com/felix-datascience/indeed_scraper](https://github.com/felix-datascience/indeed_scraper)) where I scraped job ads from an Indeed job search.
 
 ![](./images/heatmap_preview.png)
 
