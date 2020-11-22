@@ -2,7 +2,7 @@
 
 Here are some projects I have worked on.
 
-### [Analysing data science jobs on Indeed](https://nbviewer.jupyter.org/github/felix-datascience/indeed_job_analysis/blob/master/indeed_job_analysis.ipynb)
+### [Analysing data science jobs listed on Indeed](https://nbviewer.jupyter.org/github/felix-datascience/indeed_job_analysis/blob/master/indeed_job_analysis.ipynb)
 
 _Exploratory Data Analysis_
 
@@ -10,9 +10,11 @@ In this project I am analysing job ads from Indeed. The data is from another pro
 
 ![](./images/heatmap_preview.png)
 
-### Project 2
+### [Interactive dashboard of data science jobs listed on Indeed](https://mybinder.org/v2/gh/felix-datascience/indeed_dashboard_deployed/main?urlpath=%2Fvoila%2Frender%2Findeed_dashboard.ipynb)
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+_Interactive dashboard_
+
+This project is an extension of my [Analysing data science jobs on Indeed](https://nbviewer.jupyter.org/github/felix-datascience/indeed_job_analysis/blob/master/indeed_job_analysis.ipynb) project. It is a dashboard that displays information about data science jobs listed on Indeed through various plots. I have set up a Raspberry Pi which scrapes new job ads automaticly each week and pushes them to the projects Github Repository so that the data base grows over time. To make it more interesting and offer more perspectives on the data the dashboard is interactive.
 
 ![](./images/dummy-figure-2.png)
 
