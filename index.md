@@ -16,7 +16,7 @@ _Interactive dashboard_
 
 This project is an extension of my [Analysing data science jobs on Indeed](https://nbviewer.jupyter.org/github/felix-datascience/indeed_job_analysis/blob/master/indeed_job_analysis.ipynb) project. It is a dashboard that displays information about data science jobs listed on Indeed through various plots. I have set up a Raspberry Pi which scrapes new job ads automaticly each week and pushes them to the projects Github Repository so that the data base grows over time. To make it more interesting and offer more perspectives on the data the dashboard is interactive.
 
-![](./images/dummy-figure-2.png)
+![](./images/dashboard_preview.png)
 
 ### Project 3
 
