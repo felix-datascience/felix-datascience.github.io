@@ -18,8 +18,10 @@ This project is an extension of my [Analysing data science jobs on Indeed](https
 
 ![](./images/dashboard_preview.png)
 
-### Project 3
+### [Using machine learning to filter job ads](https://nbviewer.jupyter.org/github/felix-datascience/job_classifier/blob/main/job_classifier.ipynb)
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+_Machine Learning_
 
-![](./images/dummy-figure-3.jpg)
+Here I am working with job ads from my other projects. When I was working on these other projects I realized that a lot of the job ads listed on a search for "data science" jobs were actually no data science jobs. I thought it would be useful to build a classifier that is able to filter wrong job ads so I started by labeling a lot of data and built and trained a classifier with that data.
+
+![](./images/job_classifier_preview.png)
